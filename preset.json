@@ -1,11 +1,7 @@
 {
-    "tabWidth": 2,
-    "overrides": [
-        {
-            "files": "*.js",
-            "options": {
-                "tabWidth": 4
-            }
-        }
-    ]
+    "x": 120, 
+    "y": 120, 
+    "w": 50, 
+    "h": 100, 
+    "name": "people"
 }
